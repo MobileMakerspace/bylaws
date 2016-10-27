@@ -5,7 +5,7 @@
 1\. Member Qualifications. Membership is available to anyone. In order to
 be a member, a person must support the purpose and specific goals of the
 organization and abide by the Mobile Makers Code of Conduct as detailed
-in Article X. Failure to abide by these guidelines may result in
+in Article XI. Failure to abide by these guidelines may result in
 cancellation of membership.
 
 It is suggested that anyone interested in becoming a member should first
